@@ -1,2 +1,0 @@
-# Americanhouse.github.io
-landing
